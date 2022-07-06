@@ -1,3 +1,6 @@
 # Vlad 1 branch
 
-** lol kek cheburek **
+```python
+    if __name__ == '__main__':
+        pass
+```
